@@ -7,8 +7,9 @@
 - Section: GEN AI - 2A
 - Course: Backend Development Fundamentals
 
+
 ## Live Link
-Deployment pending.
+https://backend-development-labs-32ms.onrender.com
 
 ## Objective
 The objective of this lab is to create a Node.js
