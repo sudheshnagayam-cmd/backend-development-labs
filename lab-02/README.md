@@ -84,6 +84,16 @@ The `screenshots` folder contains:
 5. `update-book.png` - PUT update book
 6. `delete-book.png` - DELETE book
 
+   ## Live Deployment
+
+The Lab 2 Book Management REST API is deployed on Render.
+
+**Deployed Link:** https://backend-development-lab-2.onrender.com/books
+
+The deployed API displays the book records in JSON format.
+
+**Hosting Platform:** Render
+
 ## Conclusion
 
 In this lab, I learned how to create a REST API using Node.js and Express.js. I also learned how to connect an SQLite database and test API endpoints using Postman.
