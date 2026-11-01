@@ -84,6 +84,28 @@ The `screenshots` folder contains:
 5. `update-book.png` - PUT update book
 6. `delete-book.png` - DELETE book
 
+   
+## Screenshots
+
+### 1. SQLite Database
+![Database](screenshots/database.png)
+
+### 2. GET All Books
+![GET All Books](screenshots/get-books.png)
+
+### 3. GET Book by ID
+![GET Book by ID](screenshots/get-book-by-1.png)
+
+### 4. POST Add Book
+![POST Book](screenshots/post-book.png)
+
+### 5. PUT Update Book
+![PUT Book](screenshots/update-book.png)
+
+### 6. DELETE Book
+![DELETE Book](screenshots/delete-book.png)
+
+
    ## Live Deployment
 
 The Lab 2 Book Management REST API is deployed on Render.
