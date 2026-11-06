@@ -70,7 +70,7 @@ The server uses port 3000 by default. The optional `PORT` environment variable c
 ![GET All Books](screenshots/get-books.png)
 
 ### 2. GET Book by ID
-![GET Book by ID](screenshots/get-book-by-id.png)
+![GET Book by ID](screenshots/get-book-by-id-1.png)
 
 ### 3. Search Books
 ![Search Books](screenshots/search-books.png)
