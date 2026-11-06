@@ -6,7 +6,15 @@
 
 ## Live Deployment
 
-Deployment link will be added after deploying Lab 3.
+
+
+The Lab 3 Book Management REST API is successfully deployed on Render.
+
+**Deployed Link:** https://backend-development-lab-3.onrender.com/books
+
+**Hosting Platform:** Render
+
+The deployed API displays the book records in JSON format. It also supports searching, sorting, pagination, filtering, and CRUD operations.
 
 ## Objective
 
